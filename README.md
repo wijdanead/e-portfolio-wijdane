@@ -84,14 +84,6 @@ A full deployment of a **Security Information and Event Management (SIEM)** solu
 
 ---
 
-## 📌 Project Status
-
-- Portfolio site is under continuous improvement  
-- Will include blog articles, certifications, project demos, and a contact form  
-- Live deployment via GitHub Pages coming soon!
-
----
-
 ## 🧾 License
 
 This project is for academic and personal portfolio use.  
