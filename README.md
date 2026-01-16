@@ -80,8 +80,8 @@ Wazuh 4.12, Suricata, Kali Linux, Ubuntu 22.04, Hydra, Nmap, Bash
 
 ### 🔗 Connect with Me  
 - 🌐 [GitHub](https://github.com/wijdanead)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/wijdane-abid)  
-- ✉️ Email: [wijdaneabid16@gmail.com](mailto:wijdaneabid16@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wijdane-abid-b98aa8305/)  
+- ✉️ Email: [wijdaneabidpro@gmail.com](mailto:wijdaneabidpro@gmail.com)
 
 ---
 
