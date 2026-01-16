@@ -1,35 +1,54 @@
-# 🛡️ e-portfolio-wijdane
+## 👋 Hello, I'm Wijdane  
 
-Welcome to my professional **E-Portfolio Repository**. I’m **Wijdane**, a final-year Computer Science Engineering student, passionate about **Cybersecurity**, digital defense, and the technologies that protect modern infrastructures.
-
-This repository contains the source code for my personal portfolio website, where I showcase my **skills**, **projects**, **certifications**, and **career goals** in the cybersecurity domain.
-
----
-
-## 👩‍💻 Professional Experience
-
-### 🔐 Cybersecurity Intern – **AXA GBS Morocco**  
-*Final-Year Project Internship*  
-Working alongside cybersecurity teams to secure systems, learn enterprise tools, and apply real-world practices in threat analysis and protection. This hands-on experience is helping me build strong practical skills in a professional security environment.
-
-### 🌐 Technician Intern – **ESINOVATE, UIR**  
-Participated in both front-end and back-end development of the ESINOVATE web app using HTML, CSS, JavaScript, React.js, and Node.js. Gained valuable experience in UI/UX design and full-stack application structure.
-
-### 🖥️ Mandatory Worker Internship – **RADEET**  
-Developed a complaint management web app (HTML, CSS, JavaScript). Participated in a field mission with a network engineer to explore server and network infrastructure.
+🎓 Final-year **Computer Science Engineering student** passionate about **Cybersecurity** and digital defense.  
+🔐 Focused on understanding, analyzing, and preventing cyber threats using modern tools and automation.  
 
 ---
 
-## 🛠️ Skills
+### 💡 About Me  
+- 🧠 Curious and analytical by nature, I enjoy exploring how systems can be secured.  
+- 🧩 Skilled in Linux environments and open-source security tools.  
+- 💬 Currently working on projects related to **threat detection**, **SIEM**, and **incident response**.  
 
+---
+
+### 🎯 Objective  
+To become a **Cybersecurity Analyst** specialized in **Security Operations (SOC)** and **Threat Detection**,  
+where I can apply my technical and analytical skills to protect digital infrastructures.
+
+---
+
+### 🛠️ Skills  
 - **Penetration Testing & Security Auditing**
 - **Programming & Scripting:** Python, Bash, HTML, CSS, JavaScript, Java
 - **Cloud Platforms:** Microsoft Azure (basic knowledge)
 - **Vulnerability Analysis:** OWASP, Nmap, Nessus
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows
 - **Soft Skills:** Teamwork, Adaptability, Problem Solving
-
 ---
+
+### 🌟 Featured Project  
+#### 🧾 SIEM Implementation & Attack Simulation using Wazuh  
+
+**Description:**  
+Designed and deployed a full **Security Information and Event Management (SIEM)** environment using **Wazuh** and **Suricata** to collect, correlate, and analyze security events in real time.  
+The project included **attack simulations** (SSH brute-force, Nmap port scanning, reverse shell, EICAR test) and **automated response** via Bash scripting.
+
+**Main Tasks:**  
+- Installed and configured Wazuh components (Manager, Indexer, Dashboard, Agents).  
+- Simulated multiple attack scenarios using Hydra, Nmap, and msfvenom.  
+- Implemented automated IP blocking scripts integrated into Wazuh Active Response.  
+- Configured firewall rules and monitored alerts on both Linux and Windows systems.
+
+**Tools Used:**  
+Wazuh 4.12, Suricata, Kali Linux, Ubuntu 22.04, Hydra, Nmap, Bash  
+
+**Results:**  
+- Real-time detection of brute-force and scanning attempts.  
+- Automatic blocking of attacker IPs for 10 minutes.  
+- Strengthened understanding of SIEM architecture and security automation.  
+
+📂 *This project demonstrates my ability to design, secure, and automate complex environments.*
 
 ## 📚 Academic Projects
 
@@ -39,52 +58,31 @@ Developed a complaint management web app (HTML, CSS, JavaScript). Participated i
 - **01/2025** – Mini Social Media Web App (Cloud-based)  
 - **06/2025** – SIEM Deployment & Attack Simulation with Automation
 
----
-
-## 🧾 Certifications
-
-- Ethical Hacker – **Cisco Networking Academy**  
+  ### 🏅 Certifications
+  
 - Red Hat System Administration I  
-- Belles Histoires d'Entreprises à Impact – **ESSEC Business School**  
-- CoEntrepreneuriat I: Poser les bases – **University of Illinois at Urbana-Champaign**
-
----
-
+- Ethical Hacker – Cisco Networking Academy  
+- AWS Cloud Security Foundations *(in progress)*  
+- Web Penetration Testing – OpenClassrooms  
+- Security Monitoring & SIEM Fundamentals – OpenClassrooms  
+- Cloud Computing with Amazon Web Services – OpenClassrooms
 ## 🌍 Languages
 
 - **Arabic:** Native  
 - **French:** Professional  
 - **English:** Upper-Intermediate  
 - **Spanish:** Beginner  
-
 ---
 
-## 💡 Project Highlight
-
-### 🔎 SIEM Implementation & Attack Simulation (Final-Year Project)
-
-A full deployment of a **Security Information and Event Management (SIEM)** solution using **Wazuh** and **Suricata**. Simulated real-world cyberattacks (brute-force, port scans, reverse shell, etc.) and implemented automated responses using Bash scripting.
-
-✅ Tools used: Wazuh, Suricata, Kali Linux, Ubuntu, Hydra, Nmap  
-✅ Results: Real-time detection, automatic IP blocking, hands-on experience with security operations
-
----
-
-## 📬 Contact & Links
-
-- 🔗 [GitHub Profile](https://github.com/wijdanead)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/wijdane-abid-b98aa8305)  
-- ✉️ Email: **wijdaneabid16@gmail.com**
-
----
-
-## 💬 Personal Quote
-
+### 💬 Personal Quote  
 > “The best defense is a strong offense in understanding threats before they strike.”
+---
+
+### 🔗 Connect with Me  
+- 🌐 [GitHub](https://github.com/wijdanead)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/wijdane-abid)  
+- ✉️ Email: [wijdaneabid16@gmail.com](mailto:wijdaneabid16@gmail.com)
 
 ---
 
-## 🧾 License
-
-This project is for academic and personal portfolio use.  
-All rights reserved © Wijdane 2025.
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories or connect with me for collaboration.*
